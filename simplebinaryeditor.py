@@ -8,7 +8,8 @@ A typical use case would be to write a text file using a text editor, open it
 up with this too and edit the binary, and then open the text file again to 
 see the changes.
 
-Verion 0.1 Alpha 
+Author: http://www.github.com/AJEvans
+Version 0.1 Alpha 
 """
 import tkinter as tk
 import tkinter.filedialog as fd
